@@ -2,7 +2,9 @@ baseURL = 'https://aizaz.dev/'
 languageCode = 'en-us'
 title = 'Aizaz Khaja - Developer, Writer, Maker'
 theme = 'papermod'
-paginate = 10
+
+[pagination]
+pagerSize = 10
 
 [params]
 description = 'JavaScript developer, working on both front-end and back-end. Co-founder of Halalscope Inc.'

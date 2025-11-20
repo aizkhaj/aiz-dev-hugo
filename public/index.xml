@@ -1,11 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Home on Aizaz Khaja - Developer, Writer, Maker</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Home on Aizaz Khaja - Developer, Writer, Maker</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trying to knock a few goals with one stone</title>
+      <link>http://localhost:1313/posts/goals-and-stones/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/goals-and-stones/</guid>
+      <description>Reflections on making the most of your time and energy while accomplishing goals.</description>
+    </item>
+    <item>
+      <title>I just published my first open source project. Here&#39;s what I&#39;ve learnt.</title>
+      <link>http://localhost:1313/posts/first-open-source-project/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-open-source-project/</guid>
+      <description>Some reflection on creating an open source tool for generating static financial candlestick charts using a given data source.</description>
+    </item>
+    <item>
+      <title>An Attempt at Understanding MVC</title>
+      <link>http://localhost:1313/posts/understanding-mvc/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/understanding-mvc/</guid>
+      <description>Quick note on how to think of the MVC architecture pattern.</description>
+    </item>
+    <item>
+      <title>Getting on board with Ruby on Rails</title>
+      <link>http://localhost:1313/posts/get-on-board-ruby-rails/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/get-on-board-ruby-rails/</guid>
+      <description>Thoughts on Rails and feeling left behind because I&amp;#39;m not using Node.js yet.</description>
+    </item>
+    <item>
+      <title>First Exposure to TDD - Initial Thoughts</title>
+      <link>http://localhost:1313/posts/thoughts-tdd/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thoughts-tdd/</guid>
+      <description>Some initial thoughts on Test Driven Development, from a noob perspective</description>
+    </item>
+    <item>
+      <title>Challenges so far, and some Goals</title>
+      <link>http://localhost:1313/posts/challenges-and-goals/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/challenges-and-goals/</guid>
+      <description>Thoughts on overcoming challenges while learning something new and invigorating.</description>
+    </item>
+    <item>
+      <title>My Experience with Bloc</title>
+      <link>http://localhost:1313/posts/experience-with-bloc/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/experience-with-bloc/</guid>
+      <description>Thoughts and reflection on the bootcamp program as I go through it.</description>
+    </item>
+    <item>
+      <title>Hello World.</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>This is the first post on here, the title is fitting.</description>
+    </item>
   </channel>
 </rss>
