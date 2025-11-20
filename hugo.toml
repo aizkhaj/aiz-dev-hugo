@@ -1,4 +1,53 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aizaz.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Aizaz Khaja - Developer, Writer, Maker'
 theme = 'papermod'
+paginate = 10
+
+[params]
+description = 'JavaScript developer, working on both front-end and back-end. Co-founder of Halalscope Inc.'
+author = 'Aizaz Khaja'
+defaultTheme = 'auto'
+ShowReadingTime = true
+ShowCodeCopyButtons = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+DateFormat = 'January 2, 2006'
+
+[params.assets]
+  favicon = 'favicon-z.ico'
+  favicon16x16 = 'favicon-z.ico'
+  favicon32x32 = 'favicon-z.ico'
+  apple_touch_icon = 'favicon-z.ico'
+
+[[params.socialIcons]]
+name = 'Twitter'
+url = 'https://www.twitter.com/aizazkhaja'
+
+[[params.socialIcons]]
+name = 'GitHub'
+url = 'https://www.github.com/aizkhaj'
+
+[[params.socialIcons]]
+name = 'LinkedIn'
+url = 'https://www.linkedin.com/in/aizaz-khaja'
+
+[menu]
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Blog'
+  url = '/posts/'
+  weight = 2
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 3
